@@ -44,6 +44,6 @@ las siguientes opciones:
 	○ Huir del player cuando lo vea.
 	○ Ir hacia el player por defecto.
 	○ Morir si el player está cerca y este las golpea.
--La ia muere cuando se queda quieta.
+-La ia muere cuando se queda quieta. Muere cuando toca al player.
 -Si detecta cerca al player va a otro sitio random.
 
