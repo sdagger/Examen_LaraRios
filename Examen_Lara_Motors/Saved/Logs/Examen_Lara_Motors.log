@@ -1248,3 +1248,256 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-13.46.58:508][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
 [2020.03.30-13.46.58:527][196]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2020.03.30-13.47.00:669][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.03.30-13.48.54:795][180]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.30-13.49.00:115][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Coin" FILE="C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset" SILENT=true
+[2020.03.30-13.49.00:128][489]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/CoinC5874E424A62EE9A3C9A10A4F7735F3D.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset'
+[2020.03.30-13.49.00:145][489]AssetCheck: New page: Asset Save: Coin
+[2020.03.30-13.49.00:145][489]LogContentValidation: Display: Validating Blueprint /Game/Items/Coin.Coin
+[2020.03.30-13.49.03:912][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.03.30-13.49.06:333][852]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/Coin.Coin
+[2020.03.30-13.49.18:430][535]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:430][535]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:430][535]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:431][535]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:431][535]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:431][535]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:447][536]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:463][537]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:463][537]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:464][537]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:480][538]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:480][538]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:480][538]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:481][538]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:497][539]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:512][540]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:512][540]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:512][540]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:513][540]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:529][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:530][541]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:530][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:530][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:546][542]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:546][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:546][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:546][542]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:547][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:547][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:547][542]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:547][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:547][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:563][543]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:579][544]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:579][544]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:579][544]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:580][544]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:596][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.18:613][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:513][600]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:513][600]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:513][600]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:514][600]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:530][601]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:547][602]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:563][603]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:564][603]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:580][604]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Coin_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.30-13.49.19:597][605]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.30-13.49.23:029][811]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.30-13.50.31:858][827]BlueprintLog: New page: Compile Coin
+[2020.03.30-13.50.32:253][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.03.30-13.50.34:874][971]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.03.30-13.50.34:954][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Coin" FILE="C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset" SILENT=true
+[2020.03.30-13.50.34:982][971]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/Coin7B3A065C4860F7E22BBBB7B9DD856F2C.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset'
+[2020.03.30-13.50.34:998][971]AssetCheck: New page: Asset Save: Coin
+[2020.03.30-13.50.34:998][971]LogContentValidation: Display: Validating Blueprint /Game/Items/Coin.Coin
+[2020.03.30-13.51.21:439][719]BlueprintLog: New page: Compile Coin
+[2020.03.30-13.51.21:771][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.03.30-13.51.24:050][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.03.30-13.51.24:136][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Coin" FILE="C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset" SILENT=true
+[2020.03.30-13.51.24:161][847]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/Coin801FD1ED47C1A36D84011B8C0773B7E1.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset'
+[2020.03.30-13.51.24:177][847]AssetCheck: New page: Asset Save: Coin
+[2020.03.30-13.51.24:177][847]LogContentValidation: Display: Validating Blueprint /Game/Items/Coin.Coin
+[2020.03.30-13.52.24:704][398]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.30-13.52.25:076][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.03.30-13.52.27:664][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.03.30-13.52.27:760][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.30-13.52.28:181][544]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/ThirdPersonExampleMapC0757E8B4F4F2C6F26C492A3B5DDC917.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.30-13.52.28:209][544]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.501
+[2020.03.30-13.52.28:305][544]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/ThirdPersonCharacter1AE4D2A84466C348CED0B085283BD734.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.30-13.52.28:332][544]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-13.52.28:332][544]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-13.52.28:332][544]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.30-13.53.02:131][544]BlueprintLog: New page: Compile Coin
+[2020.03.30-13.53.02:476][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.03.30-13.53.04:157][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.03.30-13.53.04:251][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Coin" FILE="C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset" SILENT=true
+[2020.03.30-13.53.04:274][638]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/Coin5ABB0B4547C0103F7CB463B31CD0BFD0.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/Items/Coin.uasset'
+[2020.03.30-13.53.04:292][638]AssetCheck: New page: Asset Save: Coin
+[2020.03.30-13.53.04:292][638]LogContentValidation: Display: Validating Blueprint /Game/Items/Coin.Coin
+[2020.03.30-13.53.20:168][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.53.20:188][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.53.20:188][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.53.20:188][545]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:53:20 PM)
+[2020.03.30-13.53.20:188][545]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.53.20:247][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058931s)
+[2020.03.30-13.53.20:249][545]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.53.20:249][545]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2020.03.30-13.53.20:249][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.060765s)
+[2020.03.30-13.53.20:304][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.53.20:308][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.53.20:308][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.53.20:309][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.53.20:309][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.53.20:320][545]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.53.20:372][545]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.03.30-13.53.20:374][545]LogInit: FAudioDevice initialized.
+[2020.03.30-13.53.20:381][545]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.53.20:384][545]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.30-15.53.20
+[2020.03.30-13.53.20:385][545]LogWorld: Bringing up level for play took: 0.002218
+[2020.03.30-13.53.20:385][545]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.30-13.53.20:388][545]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.143
+[2020.03.30-13.53.20:388][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.53.26:263][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.53.26:263][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.53.26:263][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.53.26:264][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.53.26:264][888]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.53.26:264][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.53.26:264][888]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.53.26:265][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.53.26:295][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.53.26:295][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.53.26:301][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.53.26:352][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.53.26:357][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.53.26:363][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.30-13.53.26:400][889]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.30-13.53.38:588][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.30-13.53.38:674][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.30-13.53.39:073][604]LogSavePackage: Moving 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Saved/ThirdPersonExampleMapBB06FF69459096D03C1AEAAFFD1789ED.tmp' to 'C:/Users/Lara/Desktop/Examen_LaraRios/Examen_Lara_Motors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.30-13.53.39:100][604]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.482
+[2020.03.30-13.53.39:115][604]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.03.30-13.53.39:115][604]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
