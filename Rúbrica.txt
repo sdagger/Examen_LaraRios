@@ -1,0 +1,49 @@
+Puntos Implementados:
+
+(0,5p) Crear un Terrain como base jugable, texturizado y con vegetación.
+
+
+(1p) Crear al menos 3 triggers con diferentes funcionalidades de entre las
+siguientes opciones:
+	○ Item recolectable.
+	○ Zona de muerte.
+	○ Abre una puerta si el player cumple X condición.
+-La zona de muerte se encuentra debajo del terrain, cuando el personaje se cae. Le quita toda la vida al player,
+se puede ver en el HUD.
+-Los items son las monedas.
+-Si se coge 1 moneda o +, se abre la puerta.
+
+(1p) Crear un HUD que muestre al menos 3 de las siguientes cosas:
+	○ Cantidad de ítems recogidos.
+	○ La vida del player.
+	○ Tiempo transcurrido desde que empezó la partida.
+-Los items son las monedas.
+-La vida del player es una lifebar en azul.
+-El tiempo se encuentra en la esquina inferior derecha.
+
+(1p) Crear al menos 2 animaciones para los elementos de HUD.
+-Una es que cambia de color la imagen de fondo del indicador de items.
+-La otra es que se mueve el indicador de tiempo.
+
+(1p) Añadir 2 estados en el animation blueprint del Third Person con nuevas
+animaciones para el personaje de entre las siguientes opciones:
+	○ Muerte
+	○ Idle agachado
+-Lo he hecho muy simple. Si se aprieta la tecla 2 el personaje hace la animación de morir.
+-Si se aprieta la tecla 1, el personaje hace la animación de idle agachado.
+-No hay manera de volver a hacer otra animación, así que para probarlo se tendrá que reiniciar la partida.
+
+(0,5p) Crear alguna funcionalidad en entre las siguientes, en el Level
+Blueprint:
+	○ Restart Game
+-He hecho que se guarde la partida al inicio, y luego si se aprieta la tecla 3 vuelve a empezar la partida,
+solo que he hecho que no se guarde el tiempo transcurrido desde que se empezó a jugar. Lo demás se reinicia.
+
+(1,5p) Crear una IA a partir del third person controller que implemente 3 de
+las siguientes opciones:
+	○ Huir del player cuando lo vea.
+	○ Ir hacia el player por defecto.
+	○ Morir si el player está cerca y este las golpea.
+-La ia muere cuando se queda quieta.
+-Si detecta cerca al player va a otro sitio random.
+
